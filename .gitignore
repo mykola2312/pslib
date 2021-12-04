@@ -1,0 +1,15 @@
+.vs
+.vscode
+out
+build
+mingw
+vs2019
+*.a
+*.so
+*.exe
+*.dll
+*.bin
+*.ilk
+*.pdb
+*.obj
+*.manifest
